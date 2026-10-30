@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Command-line interface for pepkio-biostat-test-navigator."""
 
 from __future__ import annotations

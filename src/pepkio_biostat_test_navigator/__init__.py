@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Python client for Pepkio biostat-test-navigator."""
 
 from .client import PepkioClient
